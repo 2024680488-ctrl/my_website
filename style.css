@@ -107,10 +107,7 @@ a:hover {
     margin: 15px;
 }
 
-/* Memanggil fail frame kegemaran awak (Pastikan nama fail sebijik sama) */
-.frame-ribbon { background-image: url('images/photo_2026-06-09_03-26-58.jpg'); }
-.frame-flower  { background-image: url('images/photo_2026-06-09_03-26-57.jpg'); }
-.frame-berry   { background-image: url('images/photo_2026-06-09_03-26-55.jpg'); }
+
 
 /* Menghalunkan gambar sebenar supaya muat di tengah kotak ropol hitam */
 .photo-box img {
